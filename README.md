@@ -1,3 +1,6 @@
+# App Interface
+![image](https://user-images.githubusercontent.com/42149534/160200611-cdc61493-201d-41fd-a306-c668956272dd.png)
+
 # Sample Snack app
 
 Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
